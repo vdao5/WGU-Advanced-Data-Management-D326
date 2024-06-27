@@ -1,4 +1,4 @@
-# WGU - Introduction to Artificial Intelligence - C951
+# WGU - Advanced Data Management - D326
 ![img](https://github.com/vdao5/WGU-Advanced-Data-Management-D326/blob/main/DVD_Rental_ERD.png?raw=true)
 
 ## Task Overview
